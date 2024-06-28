@@ -1,12 +1,11 @@
  Hi there 👋
-- 🔭 I’m currently looking for a job
+ I'M DEVASANA
+- 🔭 Seeking opportunities as a tester, developer, full-stack developer, or data analyst.
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on AI/ML
 - 😄 Pronouns:Techie
   
-# Hi there 👋
 
-I'm Devasana, a passionate Computer Science Engineering (CSE) graduate with proficiency in several programming languages and frameworks.
 
 ## Technologies & Tools
 
@@ -17,6 +16,9 @@ I'm Devasana, a passionate Computer Science Engineering (CSE) graduate with prof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 </p>
 
 ## About Me
