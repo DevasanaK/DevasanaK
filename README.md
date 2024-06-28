@@ -24,11 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 </p>
 
-## About Me
 
-- 🎓 Computer Science Engineering (CSE) graduate.
-- 💻 Passionate about software development and learning new technologies.
-- 🌱 Currently exploring machine learning and AI.
-- 🚀 Seeking opportunities as a developer or data analyst.
 
 
