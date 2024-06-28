@@ -1,5 +1,9 @@
  Hi there 👋
  I'M DEVASANA
+ - 🎓 Computer Science Engineering (CSE) graduate.
+- 💻 Passionate about software development and learning new technologies.
+- 🌱 Currently exploring machine learning and AI.
+- 🚀 Seeking opportunities as a developer or data analyst.
 - 🔭 Seeking opportunities as a tester, developer, full-stack developer, or data analyst.
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on AI/ML
